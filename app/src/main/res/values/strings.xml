@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrameLayout Test</string>
+
+    <string name="duck">It`s a duck</string>
+</resources>
